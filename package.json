@@ -1,0 +1,22 @@
+{
+  "name": "webpack-gulp-poc",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-util": "~3.0.7",
+    "gulp-uglify": "~2.0.0",
+    "gulp-concat": "~2.6.0",
+    "gulp-sourcemaps": "~2.2.0",
+    "webpack": "~1.13.3",
+    "webpack-dev-server": "~1.16.2",
+    "webpack-stream": "~3.2.0",
+    "jquery": "~3.1.1"
+  }
+}
